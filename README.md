@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-**Hongik University**
 - **Computer Engineering (Major)**
 - **Mechanical & System Design Engineering (Double Major)**
 
