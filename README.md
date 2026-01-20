@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+**Hongik University**
+- **Computer Engineering (Major)**
+- **Mechanical & System Design Engineering (Double Major)**
+
+- **Contact:** GitHub @ThermitePark | Email: hjp78940@g.hongik.ac.kr
 <!--
 **ThermitePark/ThermitePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
