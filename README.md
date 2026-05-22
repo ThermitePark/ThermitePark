@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Mobility/ Drone
+- 🔭 I’m currently working on Computational Fluid Dynamics 
 - 🌱 I’m currently learning Rust, C++, Python OOP(Object-Oriented Programming)
 - ⚡ Fun fact: “Thermite” is my nickname, inspired by the Rainbow Six Siege operator.
 
